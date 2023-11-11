@@ -1,7 +1,7 @@
 # Thesis
 
 The Detachable Drone Hijacker targets 802.11a/b/g/n drones using 
-ddh.sh is the bash executable using a Ubuntu native OS that calls the aircrack-ng tool set (software version 1.7) for targeting 802.11 WiFi drones. For this to work, one must also have an understanding of the OUIs for targeted drones.
+ddh.sh is the bash executable using a Ubuntu native OS that calls the aircrack-ng tool set (software version 1.7) for targeting 802.11 WiFi drones. For this to work, one must also have an understanding of the OUIs for targeted drones. Additional files in this repo are for logging and the udp/tcp flood bash scripts were experimental tests for broadcasting TCP/UDP packets targeting multiple drones at once. The TCP/UDP bash scripts were partially successful, but not immediately repeatable, resulting in the reliance on a drones OUI that is broadcasted using 802.11 beacon frames for targeting purposes.
 
 May 2, 2022 Experiment Results: https://youtu.be/z3wXflZA0q0
 
