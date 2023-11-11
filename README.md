@@ -5,7 +5,7 @@ ddh.sh is the bash executable using a Ubuntu native OS that calls the aircrack-n
 
 May 2, 2022 Experiment Results: https://youtu.be/z3wXflZA0q0
 
-/textbf{Detachable Drone Hijacker Hardware/Software}
+Detachable Drone Hijacker Hardware/Software
 Raspberry Pi 4.0: https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
   Native Ubuntu OS: https://ubuntu.com/download/raspberry-pi?ref=mceyes.me
 Alfa AWUS036ACH Network Card: https://www.alfa.com.tw/products/awus036ach?variant=36473965871176
