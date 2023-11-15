@@ -23,3 +23,5 @@ Caveats:
 1. Native Ubuntu is not required.
 2. Future development shouldl incorporate more capable PC boards and radios (e.g., USRP B205 for miniaturization) to increase capability of the DDH.
 3. Using the WaveRelay MPU5 Embedded Module enabled persistent virtual network connection from the ground control station to the DDH payload.
+
+DSP_Docs holds the basic README for Gnu Radio Companion (GRC) raw signal capture, demodulation, and decoding of several popular drone FHSS signals. Further analysis needed to analyze and develop a transmitter that exploits vulnerabilities.
